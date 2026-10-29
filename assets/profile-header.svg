@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Hojun Lee — Bioinformatics &amp; AI Agents</title>
+  <desc id="desc">Research workflows, reproducible analysis and agent collaboration.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101b2c"/>
+      <stop offset="1" stop-color="#223b48"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" rx="24" fill="url(#bg)"/>
+  <circle cx="1090" cy="50" r="125" fill="#5eead4" opacity=".06"/>
+  <circle cx="1040" cy="240" r="140" fill="#a78bfa" opacity=".09"/>
+  <path d="M910 80 L1010 135 L1110 80 M910 200 L1010 135 L1110 200" fill="none" stroke="#5eead4" stroke-width="2" opacity=".55"/>
+  <g fill="#5eead4"><circle cx="910" cy="80" r="7"/><circle cx="1010" cy="135" r="11"/><circle cx="1110" cy="80" r="7"/><circle cx="910" cy="200" r="7"/><circle cx="1110" cy="200" r="7"/></g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="62" y="69" fill="#5eead4" font-size="17" letter-spacing="3">BIOINFORMATICS &amp; AI AGENTS</text>
+    <text x="58" y="145" fill="#f8fafc" font-size="64" font-weight="700">Hojun Lee</text>
+    <text x="62" y="200" fill="#cbd5e1" font-size="23">Tools for research. Agents that work together.</text>
+    <text x="62" y="242" fill="#94a3b8" font-size="16">Nextflow / nf-core · Multi-agent workflows · Open source</text>
+  </g>
+</svg>

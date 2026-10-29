@@ -1,5 +1,7 @@
 # Hojun Lee
 
+![Hojun Lee — Bioinformatics & AI Agents](assets/profile-header.svg)
+
 [![Patch notes](https://img.shields.io/badge/patch_notes-changelog-5B5BD6)](patch_notes/README.md)
 
 **Bioinformatics & AI Agents**
