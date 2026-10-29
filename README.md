@@ -2,8 +2,6 @@
 
 ![Hojun Lee — Bioinformatics scientist](assets/profile-header.svg)
 
-[![Patch notes](https://img.shields.io/badge/patch_notes-changelog-5B5BD6)](patch_notes/README.md)
-
 **Bioinformatics scientist who develops and works with AI agents.**
 
 I study biological questions through genomics and multi-omics. I develop and work with AI agents as part of that research—from analysis planning and execution to interpreting evidence.
